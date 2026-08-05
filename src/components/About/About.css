@@ -1,0 +1,57 @@
+.about-section {
+  background: var(--bg);
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 0.95fr 1.05fr;
+  gap: 42px;
+  align-items: start;
+}
+
+.about-card {
+  display: grid;
+  gap: 14px;
+}
+
+.about-point {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 16px;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow-subtle);
+  transition: transform 180ms ease, border-color 180ms ease;
+}
+
+.about-point:hover {
+  transform: translateX(5px);
+  border-color: var(--accent);
+}
+
+.about-point span {
+  color: var(--accent);
+  font-weight: 900;
+}
+
+.about-point p {
+  color: var(--text);
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 860px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+}
+
+@media (max-width: 520px) {
+  .about-point {
+    grid-template-columns: 1fr;
+    gap: 8px;
+    padding: 16px;
+  }
+}
