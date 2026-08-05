@@ -28,7 +28,7 @@ export const skillGroups = [
   {
     title: 'Frontend',
     icon: 'layout',
-    skills: ['HTML', 'CSS', 'JavaScript', 'React.js', 'Tailwind CSS'],
+    skills: ['HTML', 'CSS', 'JavaScript', 'React.js', 'Tailwind CSS' , 'React native'],
   },
   {
     title: 'Backend',
