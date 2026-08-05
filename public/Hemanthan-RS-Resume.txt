@@ -1,0 +1,45 @@
+Hemanthan R S
+Frontend Developer | React.js | Tailwind CSS
+
+Phone: +91 9345390269
+Email: hemanathan6776@gmail.com
+LinkedIn: linkedin.com/in/hemanathan-r-s-b0a0123ab
+GitHub: github.com/hemanathan1025
+
+About
+Motivated entry-level developer with a strong interest in full-stack development.
+Skilled in HTML, CSS, JavaScript, React.js, and Tailwind CSS for building responsive web applications.
+Currently learning Redux, Spring Boot, Hibernate, and backend fundamentals.
+Quick learner with strong problem-solving skills and adaptability.
+Seeking opportunities to grow as a frontend developer in the IT industry.
+
+Skills
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
+Backend: Spring Boot, Node.js, Express.js, Hibernate
+Database: MySQL, MongoDB
+
+Projects
+E-Commerce Frontend
+- Frontend-only web application
+- Responsive layout for mobile, tablet, and desktop
+- Live project: https://e-commerces-lyart.vercel.app/
+
+Notes App (MERN Stack)
+- Developed using MongoDB, Express.js, React.js, and Node.js
+- Responsive UI using React.js and Tailwind CSS
+- Used Flowbite icons
+- Academic mini project
+
+Discount Offers Web Application
+- Built using HTML, CSS, JavaScript, and React.js
+- Responsive frontend design for multiple screens
+- Learning Hibernate and MySQL integration
+- Project focused on showcasing discounts in one place
+
+Education
+BCA - Mahendra Arts & Science College, Namakkal (2025) - CGPA: 6.5
+Government High School, Thoppur (2022) - 44%
+Western Gate Matriculation School, Thoppur (2020) - 74.2%
+
+Certification
+Java Full Stack Development - JSpiders
